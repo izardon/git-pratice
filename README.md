@@ -1,2 +1,2 @@
-# gitPratice
+# git-pratice
 pratice git command
